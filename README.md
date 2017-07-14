@@ -21,8 +21,8 @@
 
 
 * En HTML...
-
-
+	![Buscando carpeta](pagina web.png)
+	
 	1 Poner tanto título de página como encabezado "Lista de frutas" en <HEAD>
 
 
@@ -53,22 +53,16 @@
 
 
 2 Abrir Git Bash e ingresar a la carpeta donde estará tu repositorio 
-
-
 	![Buscando carpeta](buscar_carp.png) 
 
 
 
 3 Inicializar con comando init
-
-
 	![Buscando carpeta](init.png)
 
 
 
 4 Crear el README 
-
-
 	![Buscando carpeta](crendo README.png) 
 
 
