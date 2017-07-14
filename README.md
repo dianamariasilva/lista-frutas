@@ -1,5 +1,5 @@
 # repositorio-prueba
-###**APRENDIENDO A USAR GIT Y GITHUB**
+### **APRENDIENDO A USAR GIT Y GITHUB**
 
 
 *Empezando con un ejercicio de Lista de frutas*
@@ -21,7 +21,6 @@
 
 
 * En HTML...
-	![Buscando carpeta](pagina web.png)
 	
 	1 Poner tanto título de página como encabezado "Lista de frutas" en <HEAD>
 
@@ -33,6 +32,7 @@
 
 
 	4 Agregar un contenedor "<div>" donde debe almacenar lista de frutas y como título tiene "Catálogo"
+	![Buscando carpeta](pagina_web.png)
 
 
 		* Añadir un botón y al costado izquierdo un espacio, el cual contaba con placeholder (como palabra oculta puse "fruta")
@@ -51,7 +51,6 @@
 1 Crear un repositorio llamado "lista.frutas" sin README EN GitHub
 
 
-
 2 Abrir Git Bash e ingresar a la carpeta donde estará tu repositorio 
 	![Buscando carpeta](buscar_carp.png) 
 
@@ -61,9 +60,8 @@
 	![Buscando carpeta](init.png)
 
 
-
 4 Crear el README 
-	![Buscando carpeta](crendo README.png) 
+	![Buscando carpeta](crendo_README.png) 
 
 
 
