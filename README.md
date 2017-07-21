@@ -32,7 +32,7 @@
 
 
 	4 Agregar un contenedor "<div>" donde debe almacenar lista de frutas y como título tiene "Catálogo"
-	![Buscando carpeta](pagina_web.png)
+	![Buscando carpeta](img/pagina_web.png)
 
 
 		* Añadir un botón y al costado izquierdo un espacio, el cual contaba con placeholder (como palabra oculta puse "fruta")
@@ -52,21 +52,21 @@
 
 
 2 Abrir Git Bash e ingresar a la carpeta donde estará tu repositorio 
-	![Buscando carpeta](buscar_carp.png) 
+	![Buscando carpeta](img/buscar_carp.png) 
 
 
 
 3 Inicializar con comando init
-	![Buscando carpeta](init.png)
+	![Buscando carpeta](img/init.png)
 
 
 4 Crear el README 
-	![Buscando carpeta](crendo_README.png) 
+	![Buscando carpeta](img/crendo_README.png) 
 
 
 
 5 Añadir archivos
-	![Buscando carpeta](add.png) 
+	![Buscando carpeta](img/add.png) 
 
 
 
